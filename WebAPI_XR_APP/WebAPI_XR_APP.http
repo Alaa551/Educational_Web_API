@@ -1,0 +1,6 @@
+@WebAPI_XR_APP_HostAddress = http://localhost:5143
+
+GET {{WebAPI_XR_APP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

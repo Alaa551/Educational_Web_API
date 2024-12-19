@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharedData", "SharedData\SharedData.csproj", "{8929BE9A-7725-409D-B262-C48A9888C57D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_Timono_App", "API_Timono_App\API_Timono_App.csproj", "{A151D30F-581B-45CC-834D-69E91369811E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8929BE9A-7725-409D-B262-C48A9888C57D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8929BE9A-7725-409D-B262-C48A9888C57D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8929BE9A-7725-409D-B262-C48A9888C57D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8929BE9A-7725-409D-B262-C48A9888C57D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A151D30F-581B-45CC-834D-69E91369811E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A151D30F-581B-45CC-834D-69E91369811E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A151D30F-581B-45CC-834D-69E91369811E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A151D30F-581B-45CC-834D-69E91369811E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D3AE425-5BF5-43E0-91D1-27AD0A884E40}
+	EndGlobalSection
+EndGlobal
